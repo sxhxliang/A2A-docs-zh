@@ -1,9 +1,19 @@
-
-
 <!-- docs/_sidebar.md -->
 * [首页](/)
 * [官方博客](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/)
 * [技术文档](documentation.md)
+* 教程
+   * [Python](tutorials/python/1_introduction.md)
+     * [1. 简介](tutorials/python/1_introduction.md)
+     * [2. 环境配置](tutorials/python/2_setup.md)
+     * [3. 创建项目](tutorials/python/3_create_a_project.md)
+     * [4. 定义智能体技能](tutorials/python/4_agent_skills.md)
+     * [5. 添加智能体卡片](tutorials/python/5_add_agent_card.md)
+     * [6. 启动服务端](tutorials/python/6_start_server.md)
+     * [7. 与服务端交互](tutorials/python/7_interact_with_server.md)
+     * [8. 扩展智能体能力](tutorials/python/8_agent_capabilities.md)
+     * [9. 使用本地Ollama模型](tutorials/python/9_ollama_agent.md)
+     * [10. 后续步骤](tutorials/python/10_next_steps.md)
 * 关键主题
   * [A2A 和 MCP](topics/a2a_and_mcp.md)
   * [Agent 服务发现](topics/agent_discovery.md)
